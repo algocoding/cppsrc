@@ -40,11 +40,11 @@
 							</tool>
 						</toolChain>
 					</folderInfo>
-					<fileInfo id="cdt.managedbuild.config.gnu.mingw.exe.debug.1548167814.1750703282" name="LCADemo.cpp" rcbsApplicability="disable" resourcePath="Tree/LCADemo.cpp" toolsToInvoke="cdt.managedbuild.tool.gnu.cpp.compiler.mingw.exe.debug.209154322.1336991847">
-						<tool id="cdt.managedbuild.tool.gnu.cpp.compiler.mingw.exe.debug.209154322.1336991847" name="GCC C++ Compiler" superClass="cdt.managedbuild.tool.gnu.cpp.compiler.mingw.exe.debug.209154322"/>
+					<fileInfo id="cdt.managedbuild.config.gnu.mingw.exe.debug.1548167814.1146033366" name="binaryHeap.cpp" rcbsApplicability="disable" resourcePath="Tree/binaryHeap.cpp" toolsToInvoke="cdt.managedbuild.tool.gnu.cpp.compiler.mingw.exe.debug.209154322.1182226515">
+						<tool id="cdt.managedbuild.tool.gnu.cpp.compiler.mingw.exe.debug.209154322.1182226515" name="GCC C++ Compiler" superClass="cdt.managedbuild.tool.gnu.cpp.compiler.mingw.exe.debug.209154322"/>
 					</fileInfo>
 					<sourceEntries>
-						<entry excluding="Tree/LCADemo.cpp|Search/2darr.cpp|Sort/counting2.cpp|Sort/counting1.cpp|DC/BOJ2805.cpp|Hello.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="lib/vectorDemo.cpp|Math/erathostenes_prime.cpp|Math/erathostenes.cpp|Tree/binaryHeap.cpp|BitMask/BOJ1102.cpp|Tree/LCADemo.cpp|Search/2darr.cpp|Sort/counting2.cpp|Sort/counting1.cpp|DC/BOJ2805.cpp|Hello.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>

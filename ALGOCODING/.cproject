@@ -40,11 +40,11 @@
 							</tool>
 						</toolChain>
 					</folderInfo>
-					<fileInfo id="cdt.managedbuild.config.gnu.mingw.exe.debug.1548167814.163669212" name="SetOP.cpp" rcbsApplicability="disable" resourcePath="BitMask/SetOP.cpp" toolsToInvoke="cdt.managedbuild.tool.gnu.cpp.compiler.mingw.exe.debug.209154322.806593415">
-						<tool id="cdt.managedbuild.tool.gnu.cpp.compiler.mingw.exe.debug.209154322.806593415" name="GCC C++ Compiler" superClass="cdt.managedbuild.tool.gnu.cpp.compiler.mingw.exe.debug.209154322"/>
+					<fileInfo id="cdt.managedbuild.config.gnu.mingw.exe.debug.1548167814.19532009" name="BOJ1967.cpp" rcbsApplicability="disable" resourcePath="Tree/BOJ1967.cpp" toolsToInvoke="cdt.managedbuild.tool.gnu.cpp.compiler.mingw.exe.debug.209154322.469735341">
+						<tool id="cdt.managedbuild.tool.gnu.cpp.compiler.mingw.exe.debug.209154322.469735341" name="GCC C++ Compiler" superClass="cdt.managedbuild.tool.gnu.cpp.compiler.mingw.exe.debug.209154322"/>
 					</fileInfo>
 					<sourceEntries>
-						<entry excluding="BitMask/SetOP.cpp|String/KarpRabin.cpp|String/suffixArray.cpp|String/suffix_ref.cpp|String/suffix.cpp|String/KMP.cpp|String/matching_burute(2).cpp|String/matching_brute.cpp|lib/vectorDemo.cpp|Math/erathostenes_prime.cpp|Math/erathostenes.cpp|Tree/binaryHeap.cpp|BitMask/BOJ1102.cpp|Tree/LCADemo.cpp|Search/2darr.cpp|Sort/counting2.cpp|Sort/counting1.cpp|DC/BOJ2805.cpp|Hello.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="Tree/BOJ1967.cpp|Graph/BOJ2589.cpp|Tree/tree_traverse.cpp|Tree/lca_iter.cpp|Tree/ lac_recur.cpp|BitMask/SetOP.cpp|String/KarpRabin.cpp|String/suffixArray.cpp|String/suffix_ref.cpp|String/suffix.cpp|String/KMP.cpp|String/matching_burute(2).cpp|String/matching_brute.cpp|lib/vectorDemo.cpp|Math/erathostenes_prime.cpp|Math/erathostenes.cpp|Tree/binaryHeap.cpp|BitMask/BOJ1102.cpp|Tree/LCADemo.cpp|Search/2darr.cpp|Sort/counting2.cpp|Sort/counting1.cpp|DC/BOJ2805.cpp|Hello.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>

@@ -1,3 +1,9 @@
+/*
+ *  lac_recur.cpp
+ *
+ *  Created on: 2017. 7. 23.
+ *      Author: JongYun
+ */
 #include <iostream>
 #include <stdio.h>
 const int MAXV = 100;
@@ -18,22 +24,6 @@ int findLCA(int v)			// v: 현재 방문 노드
 
     return l ? l : r;       // 한쪽만 있거나 없는 경우
 }
-int findLCA( )
-{
-    bool visit[MAXV + 1];
-
-    int v = v1;
-    while(v){
-    	visit[v] = true;
-    	v = P[v];
-    }
-    v = v2;
-    while(v){
-    	if(visit[v]) return v;
-       	v = P[v];
-    }
-    return 0;
-}
 int main(){
 	freopen("tree_input.txt", "r", stdin);
 	scanf("%d%d", &V, &E);
@@ -45,6 +35,16 @@ int main(){
 		else L[u] = v;
 		P[v] = u;
 	}
-	printf("lca = %d\n", findLCA() );
+	printf("lca = %d\n", findLCA(1) );
 	return 0;
 }
+
+/*
+ *
+13 12
+1 2 1 3 2 4 2 5 3 6 3 7 4 8 5 9 6 10 6 11 7 12 10 13
+
+// 13: 노드수, 12: 간선수
+// 12개의 간선 정보들
+ *
+ */

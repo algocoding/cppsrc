@@ -40,11 +40,24 @@
 							</tool>
 						</toolChain>
 					</folderInfo>
-					<fileInfo id="cdt.managedbuild.config.gnu.mingw.exe.debug.1548167814.19532009" name="BOJ1967.cpp" rcbsApplicability="disable" resourcePath="Tree/BOJ1967.cpp" toolsToInvoke="cdt.managedbuild.tool.gnu.cpp.compiler.mingw.exe.debug.209154322.469735341">
-						<tool id="cdt.managedbuild.tool.gnu.cpp.compiler.mingw.exe.debug.209154322.469735341" name="GCC C++ Compiler" superClass="cdt.managedbuild.tool.gnu.cpp.compiler.mingw.exe.debug.209154322"/>
+					<fileInfo id="cdt.managedbuild.config.gnu.mingw.exe.debug.1548167814.977048099" name="BOJ10828.cpp" rcbsApplicability="disable" resourcePath="DS/BOJ10828.cpp" toolsToInvoke="cdt.managedbuild.tool.gnu.cpp.compiler.mingw.exe.debug.209154322.316849910">
+						<tool command="g++" commandLinePattern="${COMMAND} ${FLAGS} ${OUTPUT_FLAG} ${OUTPUT_PREFIX}${OUTPUT} ${INPUTS}" id="cdt.managedbuild.tool.gnu.cpp.compiler.mingw.exe.debug.209154322.316849910" name="GCC C++ Compiler" superClass="cdt.managedbuild.tool.gnu.cpp.compiler.mingw.exe.debug.209154322">
+							<option id="gnu.cpp.compiler.option.dialect.std.773194937" name="Language standard" superClass="gnu.cpp.compiler.option.dialect.std" value="gnu.cpp.compiler.dialect.default" valueType="enumerated"/>
+							<option id="gnu.cpp.compiler.option.other.other.973601517" name="Other flags" superClass="gnu.cpp.compiler.option.other.other" value="-c -fmessage-length=0 " valueType="string"/>
+							<inputType id="cdt.managedbuild.tool.gnu.cpp.compiler.input.1496233723" superClass="cdt.managedbuild.tool.gnu.cpp.compiler.input"/>
+						</tool>
+						<tool announcement="Invoking: Resource Custom Build Step" command="" customBuildStep="true" id="org.eclipse.cdt.managedbuilder.ui.rcbs.947613731" name="Resource Custom Build Step">
+							<inputType id="org.eclipse.cdt.managedbuilder.ui.rcbs.inputtype.492912002" name="Resource Custom Build Step Input Type">
+								<additionalInput kind="additionalinputdependency" paths=""/>
+							</inputType>
+							<outputType id="org.eclipse.cdt.managedbuilder.ui.rcbs.outputtype.1647873912" name="Resource Custom Build Step Output Type" outputNames=""/>
+						</tool>
+					</fileInfo>
+					<fileInfo id="cdt.managedbuild.config.gnu.mingw.exe.debug.1548167814.14540440" name="BOJ7453.cpp" rcbsApplicability="disable" resourcePath="DS/BOJ7453.cpp" toolsToInvoke="cdt.managedbuild.tool.gnu.cpp.compiler.mingw.exe.debug.209154322.1186820407">
+						<tool id="cdt.managedbuild.tool.gnu.cpp.compiler.mingw.exe.debug.209154322.1186820407" name="GCC C++ Compiler" superClass="cdt.managedbuild.tool.gnu.cpp.compiler.mingw.exe.debug.209154322"/>
 					</fileInfo>
 					<sourceEntries>
-						<entry excluding="Tree/BOJ1967.cpp|Graph/BOJ2589.cpp|Tree/tree_traverse.cpp|Tree/lca_iter.cpp|Tree/ lac_recur.cpp|BitMask/SetOP.cpp|String/KarpRabin.cpp|String/suffixArray.cpp|String/suffix_ref.cpp|String/suffix.cpp|String/KMP.cpp|String/matching_burute(2).cpp|String/matching_brute.cpp|lib/vectorDemo.cpp|Math/erathostenes_prime.cpp|Math/erathostenes.cpp|Tree/binaryHeap.cpp|BitMask/BOJ1102.cpp|Tree/LCADemo.cpp|Search/2darr.cpp|Sort/counting2.cpp|Sort/counting1.cpp|DC/BOJ2805.cpp|Hello.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="DS/BOJ7453.cpp|DS/findBound.cpp|DS/BOJ2910.cpp|Tree/BOJ3653.cpp|Tree/fenwick.cpp|Tree/segmentTree.cpp|DS/setDemo.cpp|DS/BOJ7785.cpp|DS/pairDemo.cpp|DS/mapDemo.cpp|DS/BOJ10828.cpp|Tree/BOJ1967.cpp|Graph/BOJ2589.cpp|Tree/tree_traverse.cpp|Tree/lca_iter.cpp|Tree/ lac_recur.cpp|BitMask/SetOP.cpp|String/KarpRabin.cpp|String/suffixArray.cpp|String/suffix_ref.cpp|String/suffix.cpp|String/KMP.cpp|String/matching_burute(2).cpp|String/matching_brute.cpp|lib/vectorDemo.cpp|Math/erathostenes_prime.cpp|Math/erathostenes.cpp|Tree/binaryHeap.cpp|BitMask/BOJ1102.cpp|Tree/LCADemo.cpp|Search/2darr.cpp|Sort/counting2.cpp|Sort/counting1.cpp|DC/BOJ2805.cpp|Hello.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>

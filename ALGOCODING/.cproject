@@ -40,8 +40,8 @@
 							</tool>
 						</toolChain>
 					</folderInfo>
-					<fileInfo id="cdt.managedbuild.config.gnu.mingw.exe.debug.1548167814.782012419" name="bipartieMatching.cpp" rcbsApplicability="disable" resourcePath="Network/bipartieMatching.cpp" toolsToInvoke="cdt.managedbuild.tool.gnu.cpp.compiler.mingw.exe.debug.209154322.651487219">
-						<tool id="cdt.managedbuild.tool.gnu.cpp.compiler.mingw.exe.debug.209154322.651487219" name="GCC C++ Compiler" superClass="cdt.managedbuild.tool.gnu.cpp.compiler.mingw.exe.debug.209154322"/>
+					<fileInfo id="cdt.managedbuild.config.gnu.mingw.exe.debug.1548167814.2064020535" name="BOJ2206.cpp" rcbsApplicability="disable" resourcePath="Graph/BOJ2206.cpp" toolsToInvoke="cdt.managedbuild.tool.gnu.cpp.compiler.mingw.exe.debug.209154322.1473266067">
+						<tool id="cdt.managedbuild.tool.gnu.cpp.compiler.mingw.exe.debug.209154322.1473266067" name="GCC C++ Compiler" superClass="cdt.managedbuild.tool.gnu.cpp.compiler.mingw.exe.debug.209154322"/>
 					</fileInfo>
 					<fileInfo id="cdt.managedbuild.config.gnu.mingw.exe.debug.1548167814.977048099" name="BOJ10828.cpp" rcbsApplicability="disable" resourcePath="DS/BOJ10828.cpp" toolsToInvoke="cdt.managedbuild.tool.gnu.cpp.compiler.mingw.exe.debug.209154322.316849910">
 						<tool command="g++" commandLinePattern="${COMMAND} ${FLAGS} ${OUTPUT_FLAG} ${OUTPUT_PREFIX}${OUTPUT} ${INPUTS}" id="cdt.managedbuild.tool.gnu.cpp.compiler.mingw.exe.debug.209154322.316849910" name="GCC C++ Compiler" superClass="cdt.managedbuild.tool.gnu.cpp.compiler.mingw.exe.debug.209154322">
@@ -57,7 +57,7 @@
 						</tool>
 					</fileInfo>
 					<sourceEntries>
-						<entry excluding="Network/bipartieMatching.cpp|Network/ford_fulkerson.cpp|Sort/quickLomuto.cpp|Sort/quickHoare.cpp|Sort/mergeSort_arr.cpp|Sort/mergeSort_list.cpp|Sort/mergeSort.cpp|DC/BOJ10816.cpp|Sort/BOJ11004.cpp|Sort/BOJ11004_ref.cpp|DS/BOJ7453_merge.cpp|DS/BOJ7453.cpp|DS/findBound.cpp|DS/BOJ2910.cpp|Tree/BOJ3653.cpp|Tree/fenwick.cpp|Tree/segmentTree.cpp|DS/setDemo.cpp|DS/BOJ7785.cpp|DS/pairDemo.cpp|DS/mapDemo.cpp|DS/BOJ10828.cpp|Tree/BOJ1967.cpp|Graph/BOJ2589.cpp|Tree/tree_traverse.cpp|Tree/lca_iter.cpp|Tree/ lac_recur.cpp|BitMask/SetOP.cpp|String/KarpRabin.cpp|String/suffixArray.cpp|String/suffix_ref.cpp|String/suffix.cpp|String/KMP.cpp|String/matching_burute(2).cpp|String/matching_brute.cpp|lib/vectorDemo.cpp|Math/erathostenes_prime.cpp|Math/erathostenes.cpp|Tree/binaryHeap.cpp|BitMask/BOJ1102.cpp|Tree/LCADemo.cpp|Search/2darr.cpp|Sort/counting2.cpp|Sort/counting1.cpp|DC/BOJ2805.cpp|Hello.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="Graph/BOJ2206.cpp|Graph/BOJ11404.cpp|Graph/BOJ11724_dfs.cpp|Graph/BOJ1697.cpp|Graph/BOJ1516.cpp|Network/bipartieMatching.cpp|Network/ford_fulkerson.cpp|Sort/quickLomuto.cpp|Sort/quickHoare.cpp|Sort/mergeSort_arr.cpp|Sort/mergeSort_list.cpp|Sort/mergeSort.cpp|DC/BOJ10816.cpp|Sort/BOJ11004.cpp|Sort/BOJ11004_ref.cpp|DS/BOJ7453_merge.cpp|DS/BOJ7453.cpp|DS/findBound.cpp|DS/BOJ2910.cpp|Tree/BOJ3653.cpp|Tree/fenwick.cpp|Tree/segmentTree.cpp|DS/setDemo.cpp|DS/BOJ7785.cpp|DS/pairDemo.cpp|DS/mapDemo.cpp|DS/BOJ10828.cpp|Tree/BOJ1967.cpp|Graph/BOJ2589.cpp|Tree/tree_traverse.cpp|Tree/lca_iter.cpp|Tree/ lac_recur.cpp|BitMask/SetOP.cpp|String/KarpRabin.cpp|String/suffixArray.cpp|String/suffix_ref.cpp|String/suffix.cpp|String/KMP.cpp|String/matching_burute(2).cpp|String/matching_brute.cpp|lib/vectorDemo.cpp|Math/erathostenes_prime.cpp|Math/erathostenes.cpp|Tree/binaryHeap.cpp|BitMask/BOJ1102.cpp|Tree/LCADemo.cpp|Search/2darr.cpp|Sort/counting2.cpp|Sort/counting1.cpp|DC/BOJ2805.cpp|Hello.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
